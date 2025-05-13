@@ -1,0 +1,6 @@
+env_rules:
+  Git_: options_git.env
+  Sdm_: options_sdm.env
+  Pid_: options_pid.env
+  Ven_: options_ven.env
+  default: default.env
