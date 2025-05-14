@@ -80,8 +80,8 @@
 
 ## 📄 License / ライセンス
 
-This project is licensed under the MIT License.
-MIT ライセンスの下で公開されています。
+### This project is licensed under the MIT License.
+### MIT ライセンスの下で公開されています。
 ---
 Enjoy blazing-fast Stable Diffusion WebUI on Colab!
 Colab での SDSetupManager をどうぞお試しください。
