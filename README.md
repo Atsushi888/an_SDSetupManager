@@ -85,6 +85,6 @@
 ---
 Enjoy blazing-fast Stable Diffusion WebUI on Colab!
 Colab での SDSetupManager をどうぞお試しください。
-— The SDSetupManager Team
+— Atsushi888
 (日本語・英語ドキュメント対応)
 
