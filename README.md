@@ -46,14 +46,45 @@
 
 ## 🚀 Quick Start / クイックスタート
 
-	1.	**Google Colab でノートブック(SDSetupManager.ipynb)を開く**
-	2.	.env ファイルを準備 (settings_sdm.env など)
-  	3.	SDSetupManager を実行
-  	4.	数3分待つだけで WebUI が起動します。
+	1. **Google Colab でノートブック(SDSetupManager.ipynb)を開く**
+	2. .env ファイルを準備 (settings_sdm.env など)
+  	3. SDSetupManager を実行
+  	4. 数3分待つだけで WebUI が起動します。
 
+---
 
 ## ⚙️ Configuration / 設定
 
+ 同梱のEnvValueEditorを御覧ください。
 
+---
 
+## 🧑‍💻 Usage / 使い方
+	• 初回起動
+ 	  1. logging 定義
+	  2. モジュール定義
+	  3. 実行
+   		の順で起動
+	• 2回目以降
+	  環境はすべて GDrive 上のキャッシュを利用し、1分程度で起動します。
+
+   	⚠️注意⚠️ 起動時間は、インストールされたExtensionsに比例して遅くなります。
+
+---
+
+## 🛠 Development / 開発
+	1. 変わったことはしてません。
+ 	2. Pull request をお待ちしています！
+
+---
+
+## 📄 License / ライセンス
+
+This project is licensed under the MIT License.
+MIT ライセンスの下で公開されています。
+---
+Enjoy blazing-fast Stable Diffusion WebUI on Colab!
+Colab での SDSetupManager をどうぞお試しください。
+— The SDSetupManager Team
+(日本語・英語ドキュメント対応)
 
