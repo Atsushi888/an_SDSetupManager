@@ -1,4 +1,4 @@
-SDSetupManager
+# SDSetupManager
 
 > **A lightning-fast, reproducible setup for AUTOMATIC1111’s Stable Diffusion WebUI on Colab + GDrive**  
 > Colab ノートブック上で GDrive にキャッシュ化された仮想環境とモデルをシンボリックリンクし、一度の実行で環境構築・起動まで完結します。
@@ -46,10 +46,10 @@ SDSetupManager
 
 ## 🚀 Quick Start / クイックスタート
 
-  1. **Google Colab でノートブック(SDSetupManager.ipynb)を開く**  
+	1.	**Google Colab でノートブック(SDSetupManager.ipynb)を開く**
 	2.	.env ファイルを準備 (settings_sdm.env など)
-	3.	SDSetupManager を実行
-  4.	数3分待つだけで WebUI が起動します。
+  	3.	SDSetupManager を実行
+  	4.	数3分待つだけで WebUI が起動します。
 
 
 ## ⚙️ Configuration / 設定
